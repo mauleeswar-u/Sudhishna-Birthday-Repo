@@ -14,7 +14,7 @@ const LetterSection = () => {
 
 Just taking a moment today to celebrate the incredible person you are. Your presence brings so much light, laughter, and calm into the lives of the people around you — and that’s something truly special.
 
-Through the highs, the lows, and everything in between, your energy stays true: kind, loyal, and always real. It’s rare to find someone who can make even ordinary days feel a little brighter just by being there.
+Through the highs, the lows, and everything in between, your energy stays true: kind, loyal, and always real. It’s rare to find someone who can make even ordinary days feel a little brighter just by being themselves.
 
 You have a way of making others feel seen and appreciated — not with grand gestures, but in the small, quiet ways that matter most. That’s a gift, and it doesn’t go unnoticed.
 
@@ -22,8 +22,7 @@ On your birthday, may you feel all the love, joy, and warmth you so naturally gi
 
 Here’s to more memories, more laughter, and another great year ahead.
 
-With love, always — your friend.';
-
+With love, always — your friend.`;
 
   useEffect(() => {
     if (inView) {
