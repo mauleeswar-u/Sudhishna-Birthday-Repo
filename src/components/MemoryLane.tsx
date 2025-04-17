@@ -15,32 +15,32 @@ interface Memory {
 const memories: Memory[] = [
   {
     id: 1,
-    image: '/public/images/b1.jpg',
+    image: '/images/b1.jpg',
     caption: 'The smile that lights up every room ✨'
   },
   {
     id: 2,
-    image: '/public/images/b2.jpg',
+    image: '/images/b2.jpg',
     caption: 'Catching memories, not just moments ❤️'
   },
   {
     id: 3,
-    image: '/public/images/b3.jpg',
+    image: '/images/b3.jpg',
     caption: 'Laughing through life’s beautiful chaos 🤍'
   },
   {
     id: 4,
-    image: '/public/images/b4.jpg',
+    image: '/images/b4.jpg',
      caption: 'Her joy is pure magic 🌸'
   },
   {
     id: 5,
-    image: '/public/images/b5.jpg',
+    image: '/images/b5.jpg',
     caption: 'Golden hour glow, golden heart 🌞'
   },
   {
     id: 6,
-    image: '/public/images/b6.jpg',
+    image: '/images/b6.jpg',
     caption: 'From silly faces to sweet grins — she owns them all 😄'
   }
 ];
