@@ -23,7 +23,7 @@ const messages: Message[] = [
   {
     id: 2,
     text: "Wishing you all the happiness in the world on your special day!",
-    sender: "Vignesh",
+    sender: "Jona",
     position: "right"
   },
   {
