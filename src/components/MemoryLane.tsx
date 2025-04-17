@@ -109,7 +109,7 @@ const MemoryLane = () => {
                   <img 
                     src={memory.image} 
                     alt={`Memory ${memory.id}`} 
-                    className="w-full h-[400px] object-cover rounded-lg"
+                    className="w-full h-[600px] object-cover rounded-lg"
                   />
                   <div className="absolute bottom-0 left-2 right-2 bg-black bg-opacity-50 text-white p-4 rounded-b-lg">
                     <p className="text-lg">{memory.caption}</p>
