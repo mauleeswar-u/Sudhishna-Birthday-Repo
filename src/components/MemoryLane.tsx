@@ -95,7 +95,7 @@ const MemoryLane = () => {
       <h2 className={`section-title text-birthday-purple transition-all duration-1000 ${
         inView ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-10'
       }`}>
-  
+        Memory Lane
       </h2>
       
       <div className={`w-full max-w-4xl mx-auto relative transition-all duration-1000 delay-300 ${
