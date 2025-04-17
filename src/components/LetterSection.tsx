@@ -10,17 +10,20 @@ const LetterSection = () => {
   });
 
   const [text, setText] = useState('');
-  const fullText = `Dear Friend,
+  const fullText = `Dear Sudhishna,
 
-I wanted to take a moment on your special day to tell you how much you mean to me. Your friendship has been one of the greatest gifts in my life.
+Just taking a moment today to celebrate the incredible person you are. Your presence brings so much light, laughter, and calm into the lives of the people around you — and that’s something truly special.
 
-Through all the ups and downs, you've been there with your infectious laugh, your shoulder to lean on, and your incredible way of making even the most ordinary days feel special.
+Through the highs, the lows, and everything in between, your energy stays true: kind, loyal, and always real. It’s rare to find someone who can make even ordinary days feel a little brighter just by being there.
 
-You have this amazing ability to light up any room you walk into, and your kindness touches everyone around you.
+You have a way of making others feel seen and appreciated — not with grand gestures, but in the small, quiet ways that matter most. That’s a gift, and it doesn’t go unnoticed.
 
-As you celebrate another trip around the sun, I hope you feel the love that surrounds you – not just today, but every day. You deserve all the happiness in the world.
+On your birthday, may you feel all the love, joy, and warmth you so naturally give to others. You deserve every bit of it and more.
 
-Thank you for being you. Thank you for being my friend. Here's to many more birthdays together!`;
+Here’s to more memories, more laughter, and another great year ahead.
+
+With love, always — your friend.';
+
 
   useEffect(() => {
     if (inView) {
