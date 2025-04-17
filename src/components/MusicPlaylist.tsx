@@ -30,7 +30,7 @@ const MusicPlaylist = () => {
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-pink-100 hover:shadow-2xl transition-all duration-500">
           <div className="relative">
             <img 
-              src="https://www.google.com/imgres?q=music%20playlist&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1297013252%2Fphoto%2Fmusic-player-on-mobile-phone-with-earphones.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DY56aq0uvPe8UTYtnMzjHBNQY2WjGERO5iYta1-WwQU8%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fmusic-playlist&docid=oQ9e_1ejNtifiM&tbnid=Ten-hyxOxSVbBM&vet=12ahUKEwiOmaDmtt-MAxUwumMGHTgQEa8QM3oECHgQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwiOmaDmtt-MAxUwumMGHTgQEa8QM3oECHgQAA" 
+              src="https://media.istockphoto.com/id/1297013252/photo/music-player-on-mobile-phone-with-earphones.webp?s=612x612&w=is&k=20&c=ebell7tjVphy14mVhrvCBh2WpNs4O7DhWtxcHvk0RFU=" 
               alt="Playlist Cover" 
               className="w-full h-64 object-cover"
             />
