@@ -37,6 +37,7 @@ const memories: Memory[] = [
     id: 5,
     image: '/public/images/b5.jpg',
     caption: 'Golden hour glow, golden heart 🌞'
+  },
   {
     id: 6,
     image: '/public/images/b6.jpg',
