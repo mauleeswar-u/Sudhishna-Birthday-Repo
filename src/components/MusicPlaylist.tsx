@@ -30,9 +30,9 @@ const MusicPlaylist = () => {
         <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-pink-100 hover:shadow-2xl transition-all duration-500">
           <div className="relative">
             <img 
-              src="https://media.istockphoto.com/id/1297013252/photo/music-player-on-mobile-phone-with-earphones.webp?s=612x612&w=is&k=20&c=ebell7tjVphy14mVhrvCBh2WpNs4O7DhWtxcHvk0RFU=" 
+              src="https://bandzoogle.com/files/3714/bzblog-how-to-get-your-music-featured-on-spotify-playlists-main.jpg" 
               alt="Playlist Cover" 
-              className="w-full h-64 object-cover"
+              className="w-1200 h-628 object-cover"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black to-transparent opacity-60"></div>
             <div className="absolute bottom-0 left-0 right-0 p-6 text-white">
